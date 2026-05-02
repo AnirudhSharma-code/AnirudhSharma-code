@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirudh Prakash Sharma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-# 💫 About Me:
 ## 👨‍💻 About Me<br><br>Hi, I'm Anirudh 👋  <br>A passionate developer who loves turning ideas into real-world projects.<br><br>- 🔭 Currently working on: Web-based projects  <br>- 🌱 Learning: Backend Development & System Design  <br>- 💡 Interested in: Open Source & Scalable Applications  <br>- ⚡ Fun fact: I enjoy solving DSA problems and optimizing code  
 
 
